@@ -35,7 +35,7 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-[View Published Page](https://erin-m-keller.github.io/horiseon-refactor/)
+[View Published Page](https://erin-m-keller.github.io/keller-horiseon/)
 
 ## License
 
