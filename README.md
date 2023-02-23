@@ -7,7 +7,7 @@ to follow accessibility standards as well as optimizing the page for search engi
 
 ## User Story
 
-```
+```md
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
@@ -15,7 +15,7 @@ SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
 
-```
+```md
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
@@ -35,8 +35,8 @@ THEN I find a concise, descriptive title
 
 ## Deployed page
 
-Page published at: [https://erin-m-keller.github.io/horiseon-refactor/](https://erin-m-keller.github.io/horiseon-refactor/)
+[View Published Page](https://erin-m-keller.github.io/horiseon-refactor/)
 
 ## License
 
-Please refer to the LICENSE in the repo.
+[MIT](https://choosealicense.com/licenses/mit/)
