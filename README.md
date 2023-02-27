@@ -5,6 +5,11 @@
 This challenge is a code refactor challenge. Horiseon code is supplied and must be refactored
 to follow accessibility standards as well as optimizing the page for search engines.
 
+## Technology Stack
+
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
 ## User Story
 
 ```md
